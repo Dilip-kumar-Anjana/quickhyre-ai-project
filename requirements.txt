@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+openpyxl
+holidays
+scikit-learn
+statsmodels
+prophet
+xgboost

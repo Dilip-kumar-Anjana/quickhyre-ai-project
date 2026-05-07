@@ -1,0 +1,19 @@
+#.venv and virtualenv files
+.venv/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# Ignore temporary office files
+~$*
